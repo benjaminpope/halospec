@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: nimbus
+Version: 0.0.1
+Summary: Halo Spectroscopy for JWST/MIRI
+Home-page: https://github.com/benjaminpope/nimbus
+Author: Benjamin Pope
+Author-email: b.pope@uq.edu.au
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/benjaminpope/nimbus/issues
+Description: Halo Spectroscopy for JWST/MIRI
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
