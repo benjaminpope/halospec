@@ -1,2 +1,2 @@
 # nimbus
-Halo photometry for JWST Spectroscopy
+Halo Spectroscopy for JWST
