@@ -40,5 +40,5 @@ nav:
     - Home: index.md
     - Examples:
         # - Interfacing with PyTrees: notebooks/PyTree_interface.ipynb
-        - Phaethon:          notebooks/exploration_unsaturated.ipynb
-        - Ceres:        notebooks/exploration_saturated.ipynb
+        - Ceres:        notebooks/exploration-saturated.ipynb
+        - Phaethon:          notebooks/exploration-unsaturated.ipynb
