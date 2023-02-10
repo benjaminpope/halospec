@@ -2,7 +2,6 @@
 [![PyPI version](https://badge.fury.io/py/halospec.svg)](https://badge.fury.io/py/halospec)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![automated tests](https://github.com/benjaminpope/halospec/actions/workflows/tests.yml/badge.svg)](https://github.com/benjaminpope/halospec/actions/workflows/tests.yml)
-[![Documentation](https://github.com/benjaminpope/halospec/actions/workflows/documentation.yml/badge.svg)](https://github.com/benjaminpope/halospec/actions/workflows/documentation.yml)
 
 Halo Spectroscopy for JWST
 
