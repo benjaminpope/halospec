@@ -1,9 +1,0 @@
-LICENSE
-README.md
-setup.py
-nimbus/__init__.py
-nimbus.egg-info/PKG-INFO
-nimbus.egg-info/SOURCES.txt
-nimbus.egg-info/dependency_links.txt
-nimbus.egg-info/requires.txt
-nimbus.egg-info/top_level.txt
